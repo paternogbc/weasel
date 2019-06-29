@@ -19,6 +19,7 @@ An implementation of Richard Dawkins Weasel algorithm
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/weasel)](https://cran.r-project.org/package=weasel)
+[![Travis build status](https://travis-ci.org/paternogbc/weasel.svg?branch=master)](https://travis-ci.org/paternogbc/weasel)
 <!-- badges: end -->
 
 The [Weasel Algorithm](https://en.wikipedia.org/wiki/Weasel_program) was developed by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) to illustrate how random variation combined with non-random cumulative selection can drive evolutionary change. 
