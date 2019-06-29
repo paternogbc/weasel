@@ -1,0 +1,18 @@
+Package: weasel
+Title: An implementation of Richard Dawkins Weasel Algorithm
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Gustavo",
+           family = "Paterno",
+           role = c("aut", "cre"),
+           email = "paternogbc@gmail.com",
+           comment = c(ORCID = "0000-0001-9719-3037"))
+Description: Simulate the evolution of digital individuals
+  following Richard Dawkins Weasel algorithm.
+License: GPL-3
+Suggests: 
+    testthat
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
